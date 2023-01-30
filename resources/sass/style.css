@@ -1,0 +1,29 @@
+.wp-100 {
+    width: 100px;
+}
+
+#map {
+    margin-top: 1rem;
+    width: 100%;
+}
+
+.map-create-edit{
+    height: 200px;
+}
+
+.map-show{
+    height: 400px;
+}
+
+#notice {
+    display: none;
+    text-align: center;
+}
+
+.action-edit-delete {
+    display: flex;
+}
+
+.bi-personi {
+    font-size: 25px !important;
+}
